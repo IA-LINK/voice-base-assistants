@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #voice base assistant app
+    'rest_framework',
     'assistant_api',
 ]
 
