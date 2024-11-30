@@ -1,0 +1,9 @@
+Django==4.2.7
+psycopg2-binary==2.9.6  # For PostgreSQL database
+gunicorn==23.0.0        # For production web server
+django-crispy-forms==2.3  # For form styling
+django-filter==24.3       # For filtering data in views
+django-rest-framework==0.1.0  # For building APIs
+SpeechRecognition==3.10.0
+pyttsx3==2.91
+nltk==3.8.1
